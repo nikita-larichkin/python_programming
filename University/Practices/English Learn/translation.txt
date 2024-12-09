@@ -1,0 +1,156 @@
+Исходное слово|Перевод|Количество упоминаний
+он|Erkek|15
+и|and|14
+в|at|9
+на|on|8
+с|c|6
+который|which the|5
+хозяйка|hostess|5
+лестница|Stairway|5
+быть|be|5
+не|not|5
+время|Time|3
+свой|its own|3
+каморка|Den|3
+от|dated|3
+—|—|3
+встреча|meeting|3
+этот|this...|3
+бояться|fear|3
+даже|even|3
+но|Not edged|3
+под|under|2
+один|Alone|2
+молодой|young|2
+человек|people|2
+нанимать|hire|2
+улица|Street|2
+бы|would|2
+к|к|2
+квартира|apartment|2
+каждый|each|2
+раз|time|2
+при|at|2
+проходить|pass,|2
+мимо|мимо|2
+трусливый|Chicken-hearted|2
+совсем|at all|2
+до|to|2
+тот|Thoth|2
+весь|весь|2
+что|what|2
+всякий|всякий|2
+перестать|UnFollow|2
+дело|(legal) case|2
+никакой|none|2
+нет|No|2
+начало|start|1
+июль|July|1
+чрезвычайно|Extremely|1
+жаркое|roast|1
+вечер|evening|1
+выйти|Log out|1
+из|of|1
+жилец|tenant|1
+м|M|1
+переулок|Side road|1
+медленно|slowly|1
+как|as|1
+нерешимость|НЕРЕШИМОСТЬ|1
+отправиться|go|1
+ну|well|1
+мост|Bridge|1
+благополучно|safely|1
+избегнуть|avoid|1
+приходиться|have to|1
+самый|- ...|1
+кровля|top|1
+высокий|high|1
+пятиэтажный|five-storey|1
+дом|House|1
+походить|resemble|1
+более|more than|1
+шкаф|cabinet|1
+чем|.|1
+квартирный|apartment|1
+же|Wher|1
+у|y|1
+обед|lunch|1
+прислуга|Household helper|1
+помещаться|to be placed|1
+ниже|low|1
+отдельный|Otdelny|1
+выход|Serving|1
+непременно|surely|1
+надо|надо|1
+хозяйкин|хозяйкин|1
+кухня|Flavors|1
+почти|almost|1
+всегда|Always|1
+настежь|настеж|1
+отворить|open|1
+чувствовать|feel|1
+какой-то|Some kind of.|1
+болезненный|sore|1
+ощущение|Sense|1
+стыдиться|to be ashamed|1
+морщиться|wrinkle|1
+должный|Due|1
+кругом|All around her.|1
+она|she|1
+встретиться|Meet|1
+то|than|1
+чтоб|so that|1
+так|so|1
+забитый|clogged|1
+напротив;|across from|1
+некоторый|некоторый|1
+раздражительный|crotchety|1
+напрячь|tension|1
+состояние|condition|1
+похожий|похожий|1
+ипохондрия|HYPOCHONDRIA|1
+углубиться|to go deeper|1
+себя|it|1
+уединиться|To be alone together. |1
+только|only|1
+задавить|crush|1
+бедностью;|poverty;|1
+стеснённый|стеснённый|1
+положение|position|1
+последний|last|1
+тяготить|тяготить|1
+насущный|urgent|1
+хотеть|want|1
+заниматься|take up|1
+сущность|Essence|1
+ни|HN|1
+замышлять|intend|1
+против|vs.|1
+останавливаться|to stop|1
+слушать|listen|1
+вздор|rubbish|1
+про|on|1
+обыденный|ordinary|1
+дребедень|дребедень|1
+всё|Everything|1
+приставание|приставание|1
+о|.|1
+платёж|payment|1
+угроза|threat|1
+жалоба|complaint|1
+это|is|1
+сам|self|1
+изворачиваться|to twist|1
+извиняться|be sorry <g id="1">*</g>|1
+лгать|lie|1
+уж|already|1
+хороший|Good|1
+проскользнуть|slip|1
+как-нибудь|как-нибудь|1
+кошка|My cat.|1
+по|acc. to|1
+улизнуть|slip away|1
+чтобы|to actually|1
+никто|Innokenty Annensky|1
+видать|issue|1
